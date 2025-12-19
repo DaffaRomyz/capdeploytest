@@ -5,10 +5,10 @@
         "binding": {
           "type": "cf",
           "apiEndpoint": "https://api.cf.us10-001.hana.ondemand.com",
-          "org": "dc31a534trial",
+          "org": "59ac58f6trial",
           "space": "dev",
-          "instance": "capdeploytest-cds-db",
-          "key": "capdeploytest-cds-db-key"
+          "instance": "capdeploytest-db",
+          "key": "capdeploytest-db-key"
         },
         "kind": "hana",
         "vcap": {

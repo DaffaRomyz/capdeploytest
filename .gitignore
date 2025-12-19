@@ -30,3 +30,6 @@ hs_err*
 
 resources/
 app/*/dist/
+
+# added by cds
+.cdsrc-private.json
